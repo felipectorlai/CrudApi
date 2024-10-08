@@ -1,0 +1,7 @@
+C:\Users\labsfiap\CrudApi\obj\Debug\net8.0\CrudApi.csproj.AssemblyReference.cache
+C:\Users\labsfiap\CrudApi\obj\Debug\net8.0\CrudApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\CrudApi\obj\Debug\net8.0\CrudApi.AssemblyInfoInputs.cache
+C:\Users\labsfiap\CrudApi\obj\Debug\net8.0\CrudApi.AssemblyInfo.cs
+C:\Users\labsfiap\CrudApi\obj\Debug\net8.0\CrudApi.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\CrudApi\obj\Debug\net8.0\CrudApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\labsfiap\CrudApi\obj\Debug\net8.0\CrudApi.MvcApplicationPartsAssemblyInfo.cache

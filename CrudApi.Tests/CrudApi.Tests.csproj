@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <LangVersion>10.0</LangVersion> <!-- Define a versão da linguagem como C# 10.0 -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.18.2" /> <!-- Referência para Moq -->
+    <PackageReference Include="xunit" Version="2.4.2" /> <!-- Referência para xUnit -->
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.5" /> <!-- Referência para o runner do xUnit -->
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.0.0" /> <!-- Adicione esta linha -->
+  </ItemGroup>
+
+</Project>
